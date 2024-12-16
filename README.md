@@ -1,4 +1,4 @@
-This repository contains my work for the BEE3071: Applied Econometrics for Business module, analyzing production cost determinants using econometric techniques.
+This repository contains my work for the Applied Econometrics for Business module, analyzing production cost determinants using econometric techniques.
 
 Key Highlights - 
 Analysis: Examined the impact of output, fuel, labor, and capital prices on production costs.
